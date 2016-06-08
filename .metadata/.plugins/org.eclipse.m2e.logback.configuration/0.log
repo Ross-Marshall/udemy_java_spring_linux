@@ -3054,3 +3054,7 @@ org.eclipse.core.runtime.CoreException: Launch configuration Version references 
 2016-06-07 22:36:41,122 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /me/code/spring/workspace/spring-tutorial-chapter-43/src/main/resources
 2016-06-07 22:36:41,124 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2016-06-07 22:36:41,124 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /me/code/spring/workspace/spring-tutorial-chapter-43/src/test/resources
+2016-06-07 22:41:58,351 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-07 22:41:58,352 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /me/code/spring/workspace/spring-tutorial-chapter-43/src/main/resources
+2016-06-07 22:41:58,353 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-07 22:41:58,353 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /me/code/spring/workspace/spring-tutorial-chapter-43/src/test/resources
