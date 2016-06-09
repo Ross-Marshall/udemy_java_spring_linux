@@ -1,7 +1,0 @@
-package spring.linux;
-
-public class Hello {
-	
-	System.out.println( "Hello, Linux" );
-
-}
