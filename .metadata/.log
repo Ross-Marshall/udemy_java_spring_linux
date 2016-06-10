@@ -4449,3 +4449,53 @@ Java Model Exception: Java Model Status [OffersDAO.java [in com.caveofprogrammin
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-09 20:27:25.719
 !MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.egit.ui 4 0 2016-06-09 20:34:05.304
+!MESSAGE An internal error occurred during: "Merging with refs/remotes/udemy_java_spring_linux/master".
+!STACK 0
+org.eclipse.jgit.api.errors.JGitInternalException: Exception caught during execution of merge command. org.eclipse.jgit.errors.MissingObjectException: Missing unknown 134b7618ba766e197fe01009ef385557fee68325
+	at org.eclipse.jgit.api.MergeCommand.call(MergeCommand.java:421)
+	at org.eclipse.egit.core.op.MergeOperation$1.run(MergeOperation.java:186)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241)
+	at org.eclipse.egit.core.op.MergeOperation.execute(MergeOperation.java:205)
+	at org.eclipse.egit.ui.internal.actions.MergeActionHandler$1.runInWorkspace(MergeActionHandler.java:72)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: org.eclipse.jgit.errors.MissingObjectException: Missing unknown 134b7618ba766e197fe01009ef385557fee68325
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.open(WindowCursor.java:145)
+	at org.eclipse.jgit.lib.ObjectReader.open(ObjectReader.java:226)
+	at org.eclipse.jgit.dircache.DirCacheCheckout.checkoutEntry(DirCacheCheckout.java:1239)
+	at org.eclipse.jgit.dircache.DirCacheCheckout.checkoutEntry(DirCacheCheckout.java:1163)
+	at org.eclipse.jgit.merge.ResolveMerger.checkout(ResolveMerger.java:327)
+	at org.eclipse.jgit.merge.ResolveMerger.mergeTrees(ResolveMerger.java:1027)
+	at org.eclipse.jgit.merge.ResolveMerger.mergeImpl(ResolveMerger.java:304)
+	at org.eclipse.jgit.merge.Merger.merge(Merger.java:212)
+	at org.eclipse.jgit.merge.Merger.merge(Merger.java:165)
+	at org.eclipse.jgit.merge.ThreeWayMerger.merge(ThreeWayMerger.java:114)
+	at org.eclipse.jgit.api.MergeCommand.call(MergeCommand.java:348)
+	... 6 more
+
+!ENTRY org.eclipse.core.jobs 4 2 2016-06-09 20:34:05.305
+!MESSAGE An internal error occurred during: "Merging with refs/remotes/udemy_java_spring_linux/master".
+!STACK 0
+org.eclipse.jgit.api.errors.JGitInternalException: Exception caught during execution of merge command. org.eclipse.jgit.errors.MissingObjectException: Missing unknown 134b7618ba766e197fe01009ef385557fee68325
+	at org.eclipse.jgit.api.MergeCommand.call(MergeCommand.java:421)
+	at org.eclipse.egit.core.op.MergeOperation$1.run(MergeOperation.java:186)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2241)
+	at org.eclipse.egit.core.op.MergeOperation.execute(MergeOperation.java:205)
+	at org.eclipse.egit.ui.internal.actions.MergeActionHandler$1.runInWorkspace(MergeActionHandler.java:72)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:39)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: org.eclipse.jgit.errors.MissingObjectException: Missing unknown 134b7618ba766e197fe01009ef385557fee68325
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.open(WindowCursor.java:145)
+	at org.eclipse.jgit.lib.ObjectReader.open(ObjectReader.java:226)
+	at org.eclipse.jgit.dircache.DirCacheCheckout.checkoutEntry(DirCacheCheckout.java:1239)
+	at org.eclipse.jgit.dircache.DirCacheCheckout.checkoutEntry(DirCacheCheckout.java:1163)
+	at org.eclipse.jgit.merge.ResolveMerger.checkout(ResolveMerger.java:327)
+	at org.eclipse.jgit.merge.ResolveMerger.mergeTrees(ResolveMerger.java:1027)
+	at org.eclipse.jgit.merge.ResolveMerger.mergeImpl(ResolveMerger.java:304)
+	at org.eclipse.jgit.merge.Merger.merge(Merger.java:212)
+	at org.eclipse.jgit.merge.Merger.merge(Merger.java:165)
+	at org.eclipse.jgit.merge.ThreeWayMerger.merge(ThreeWayMerger.java:114)
+	at org.eclipse.jgit.api.MergeCommand.call(MergeCommand.java:348)
+	... 6 more
