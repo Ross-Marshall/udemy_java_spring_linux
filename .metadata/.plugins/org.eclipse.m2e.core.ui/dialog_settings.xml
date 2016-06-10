@@ -22,6 +22,12 @@
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item value="685" key="height"/>
+		<item value="588" key="width"/>
+		<item value="346" key="y"/>
+		<item value="921" key="x"/>
+	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
 		</list>
@@ -33,12 +39,6 @@
 			<item value="[groupId].[artifactId]-[version]"/>
 			<item value="[name]"/>
 		</list>
-	</section>
-	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
-		<item value="685" key="height"/>
-		<item value="588" key="width"/>
-		<item value="159" key="y"/>
-		<item value="696" key="x"/>
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="groupId">

@@ -2,4 +2,8 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
 <fullyQualifiedTypeName name="org.springframework.context.support.FileSystemXmlApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.dao.DataAccessException"/>
+<fullyQualifiedTypeName name="org.springframework.jdbc.CannotGetJdbcConnectionException"/>
+<fullyQualifiedTypeName name="org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate"/>
+<fullyQualifiedTypeName name="org.springframework.jdbc.core.namedparam.MapSqlParameterSource"/>
 </qualifiedTypeNameHistroy>

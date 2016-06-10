@@ -139,6 +139,19 @@
 		<item value="org.springsource.sts.package:3.7.3.201602250940-RELEASE-e45"/>
 		<item value="org.springsource.sts:3.7.3.201602250940-RELEASE"/>
 	</list>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/me/code/spring-tutorial-linux/spring-tutorial-chapter-48"/>
+			<item value="/me/code/spring-tutorial-linux/spring-tutorial-chapter-47"/>
+			<item value="/me/code/spring-tutorial-linux/spring-tutorial-chapter-46"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
 	<section name="SaveAsDialogSettings">
 		<item value="613" key="DIALOG_WIDTH"/>
 		<item value="66" key="DIALOG_Y_ORIGIN"/>
