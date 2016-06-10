@@ -55,7 +55,7 @@ public class OffersDAO {
 		
 		BeanPropertySqlParameterSource param = new BeanPropertySqlParameterSource(offer);
 		
-		return jdbc.update ( "update offers set name=:name, text=:text:, email=:email where id=:id", param) == 1;
+		return jdbc.update ( "update offers set name=:name, text=:text, email=:email where id=:id", param) == 1;
 
 	}
 	
@@ -63,7 +63,7 @@ public class OffersDAO {
 		
 		BeanPropertySqlParameterSource param = new BeanPropertySqlParameterSource(offer);
 		
-		return jdbc.update ( "insert into offers (name, text, email) values (:name, :text:, :email)", param) == 1;
+		return jdbc.update ( "insert into offers (name, text, email) values (:name, :text, :email)", param) == 1;
 
 	}
 	
