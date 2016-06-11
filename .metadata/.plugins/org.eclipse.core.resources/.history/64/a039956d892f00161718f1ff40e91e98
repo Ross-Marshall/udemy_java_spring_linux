@@ -28,8 +28,8 @@ public class App {
 			}
 			
 			List<Offer> offers2 = new ArrayList<Offer>();
-			offers2.add( new Offer(3, "Steve", "steve@caveofprogramming.com", "Cash for Software"));
-			offers2.add( new Offer(2, "Joe", "joe@caveofprogramming.com", "Elegent Web Design"));
+			offers2.add( new Offer("Steve", "steve@caveofprogramming.com", "Cash for Software"));
+			offers2.add( new Offer("Joe", "joe@caveofprogramming.com", "Elegent Web Design"));
 			int [] rvals = offersDao.create(offers2);
 			
 			 offersDao.delete(80);

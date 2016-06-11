@@ -3395,3 +3395,27 @@ org.eclipse.core.runtime.CoreException: Launch configuration Version references 
 2016-06-10 23:41:56,673 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /me/code/spring/workspace/spring-tutorial-chapter-49/src/main/resources
 2016-06-10 23:41:56,675 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2016-06-10 23:41:56,675 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /me/code/spring/workspace/spring-tutorial-chapter-49/src/test/resources
+2016-06-11 00:02:12,658 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-11 00:02:12,659 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /me/code/spring/workspace/spring-tutorial-chapter-49/src/main/resources
+2016-06-11 00:02:12,660 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-11 00:02:12,660 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /me/code/spring/workspace/spring-tutorial-chapter-49/src/test/resources
+2016-06-11 00:03:17,890 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-11 00:03:17,890 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /me/code/spring/workspace/spring-tutorial-chapter-49/src/main/resources
+2016-06-11 00:03:17,891 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-11 00:03:17,892 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /me/code/spring/workspace/spring-tutorial-chapter-49/src/test/resources
+2016-06-11 00:04:21,747 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-11 00:04:21,747 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /me/code/spring/workspace/spring-tutorial-chapter-49/src/main/resources
+2016-06-11 00:04:21,749 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-11 00:04:21,750 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /me/code/spring/workspace/spring-tutorial-chapter-49/src/test/resources
+2016-06-11 00:05:19,858 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-11 00:05:19,858 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /me/code/spring/workspace/spring-tutorial-chapter-49/src/main/resources
+2016-06-11 00:05:19,860 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-11 00:05:19,861 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /me/code/spring/workspace/spring-tutorial-chapter-49/src/test/resources
+2016-06-11 00:05:29,349 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-11 00:05:29,350 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /me/code/spring/workspace/spring-tutorial-chapter-49/src/main/resources
+2016-06-11 00:05:29,352 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-11 00:05:29,352 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /me/code/spring/workspace/spring-tutorial-chapter-49/src/test/resources
+2016-06-11 00:05:55,993 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-11 00:05:55,993 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /me/code/spring/workspace/spring-tutorial-chapter-49/src/main/resources
+2016-06-11 00:05:55,994 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-06-11 00:05:55,995 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /me/code/spring/workspace/spring-tutorial-chapter-49/src/test/resources
