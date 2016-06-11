@@ -35,7 +35,7 @@ public class App {
 			 offersDao.delete(80);
 			
 			for (int value : rvals ) {
-				System.out.println("Updated " + value + " rows."); 
+				System.out.println("Updated " + value + " rows.");
 			}
 			
 			List<Offer> offers = offersDao.getOffers();
