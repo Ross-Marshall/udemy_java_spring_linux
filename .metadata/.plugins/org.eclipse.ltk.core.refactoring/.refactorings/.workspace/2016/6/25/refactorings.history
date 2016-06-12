@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;spring-tutorial-50&apos; to &apos;spring-tutorial-chapter-50&apos;" description="Rename resource &apos;spring-tutorial-50&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/spring-tutorial-50" name="spring-tutorial-chapter-50" stamp="1465701674140" updateReferences="true"/>
+</session>

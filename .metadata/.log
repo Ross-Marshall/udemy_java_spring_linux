@@ -4756,3 +4756,27 @@ org.osgi.framework.BundleException: Could not resolve module: org.springsource.i
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2016-06-11 00:07:33.280
 !MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2016-06-11 23:18:34.189
+!MESSAGE Project facet grails.app has not been defined. It is used in plugin com.vmware.vfabric.ide.eclipse.tcserver.core.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2016-06-11 23:18:34.190
+!MESSAGE Project facet grails.app has not been defined. It is used in plugin org.eclipse.cft.server.branding.core.
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2016-06-11 23:18:52.472
+!MESSAGE cacheFile=file:/me/code/spring/sts-bundle/sts-3.7.3.RELEASE/configuration/org.eclipse.wst.server.discovery/serverAdapterSitesDetails.xml
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2016-06-11 23:18:52.472
+!MESSAGE cacheFile=file:/me/code/spring/sts-bundle/sts-3.7.3.RELEASE/configuration/org.eclipse.wst.server.discovery/serverAdapterSitesDetails.xml
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-06-11 23:18:54.719
+!MESSAGE Invalid site reference %updateSiteURL in feature com.pramati.eclipse.feature.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-06-11 23:18:54.721
+!MESSAGE Invalid site reference %updateSiteURL in feature com.pramati.eclipse.feature.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-06-11 23:18:54.722
+!MESSAGE Invalid site reference %updateSiteURL in feature com.pramati.eclipse.feature.
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2016-06-11 23:19:36.971
+!MESSAGE cacheFile=file:/me/code/spring/sts-bundle/sts-3.7.3.RELEASE/configuration/org.eclipse.wst.server.discovery/serverAdapterSitesDetails.xml
