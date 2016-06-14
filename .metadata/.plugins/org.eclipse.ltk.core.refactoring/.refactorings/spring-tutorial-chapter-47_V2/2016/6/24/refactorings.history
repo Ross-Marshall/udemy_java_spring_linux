@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;spring-tutorial-chapter-47_V2&apos;&#x0A;- Original project: &apos;spring-tutorial-chapter-47_V2&apos;&#x0A;- Original elements:&#x0A;     com.caveofprogramming.spring.udemy.tutorial.App.java&#x0A;     com.caveofprogramming.spring.udemy.tutorial.Offer.java&#x0A;     com.caveofprogramming.spring.udemy.tutorial.OffersDAO.java" description="Delete elements" element1="/src\/main\/java&lt;com.caveofprogramming.spring.udemy.tutorial{Offer.java" element2="/src\/main\/java&lt;com.caveofprogramming.spring.udemy.tutorial{OffersDAO.java" element3="/src\/main\/java&lt;com.caveofprogramming.spring.udemy.tutorial{App.java" elements="3" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1465518430208" subPackages="false" version="1.0"/>
+</session>

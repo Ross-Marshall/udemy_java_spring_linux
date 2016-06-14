@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;History&gt;&#x0A;&lt;historyRootNode&gt;&#x0A;&lt;infoNode&gt;=demo/\/home\/megazor\/.m2\/repository\/junit\/junit\/4.12\/junit-4.12.jar&amp;lt;junit.runner(Version.class[Version&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=spring-tutrial-chapter-42/src\/main\/java&amp;lt;com.caveofprogramming.spring.udemy.tutorial{App.java[App&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=spring-tutorial-chapter-42/src\/main\/java&amp;lt;com.caveofprogramming.spring.udemy.tutorial{App.java[App&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=spring-tutorial-chapter-43/src\/main\/java&amp;lt;com.caveofprogramming.spring.udemy.tutorial{App.java[App&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=spring-tutorial-chapter-44/src\/main\/java&amp;lt;com.caveofprogramming.spring.udemy.tutorial{App.java[App&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=spring-tutorial-chapter-45/src\/main\/java&amp;lt;com.caveofprogramming.spring.udemy.tutorial{App.java[App&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=spring-tutorial-chapter-46/src\/main\/java&amp;lt;com.caveofprogramming.spring.udemy.tutorial{App.java[App&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=spring-tutorial-chapter-47/src\/main\/java&amp;lt;com.caveofprogramming.spring.udemy.tutorial{App.java[App&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=spring-tutorial-chapter-48/src\/main\/java&amp;lt;com.caveofprogramming.spring.udemy.tutorial{App.java[App&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=spring-tutorial-chapter-46_V2/src\/main\/java&amp;lt;{App.java[App&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=spring-tutorial-chapter-46_V2/src\/main\/java&amp;lt;com.caveofprogramming.spring.udemy.tutorial{App.java[App&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=spring-tutorial-chapter-47_V2/src\/main\/java&amp;lt;com.caveofprogramming.spring.udemy.tutorial{App.java[App&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=spring-tutorial-chapter-48_V2/src\/main\/java&amp;lt;com.caveofprogramming.spring.udemy.tutorial{App.java[App&lt;/infoNode&gt;&#x0A;&lt;/historyRootNode&gt;&#x0A;&lt;/History&gt;" key="History"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="78" key="DIALOG_Y_ORIGIN"/>
+			<item value="524" key="DIALOG_X_ORIGIN"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="1|Sans|10.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		</section>
+	</section>
+</section>
